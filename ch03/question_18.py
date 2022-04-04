@@ -29,5 +29,5 @@ for row in range(1, 11):
     print(end="   ")
     for _ in range(row):
         print("*", end="")
-
+    print()
 
